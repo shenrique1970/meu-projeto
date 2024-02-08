@@ -1,15 +1,14 @@
 import './App.css'
-import Evento from './components/Evento';
 
 
 function App() {
 
   return (
     <div className="App">
-      <h1>Testando eventos</h1>
-      <Evento />
+      <h1>State Lift</h1>
+      
     </div>
-  );
+  )
 }
 
 export default App
